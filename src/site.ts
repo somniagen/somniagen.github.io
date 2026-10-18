@@ -7,7 +7,7 @@ export interface Feature {
 }
 
 export const features: Feature[] = [
-  { icon: 'tune', title: 'Tuned defaults', text: 'WAI-Illustrious v17 and AnimaYume 1.5 look right on the first try.' },
+  { icon: 'tune', title: 'Tuned defaults', text: 'WAI-Illustrious v17 and Anima-2.9B look right on the first try.' },
   { icon: 'devices', title: 'Watch from any device', text: 'Queue on the desktop, follow the render on your phone. Nothing gets interrupted.' },
   { icon: 'face_retouching_natural', title: 'Detailers', text: 'YOLO finds faces and hands and repaints them automatically.' },
   { icon: 'zoom_out_map', title: 'Hires + upscale', text: 'Latent second pass, upscale models and tiled refine.' },
